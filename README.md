@@ -1,2 +1,1 @@
-# PrepcourseHenry
-Este es un repositorio de prueba para el modulo 2 de PrepC 
+Este proyecto es una prueba de como clonarlo y modificarlo desde mi escritorio local.
